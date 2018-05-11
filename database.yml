@@ -1,0 +1,11 @@
+development:
+  dialect: "sqlite3"
+  database: /home/joe/Work/go/src/github.com/josebur86/osmose_development.sqlite
+
+test:
+  dialect: "sqlite3"
+  database: /home/joe/Work/go/src/github.com/josebur86/osmose_test.sqlite
+
+production:
+  dialect: "sqlite3"
+  database: /home/joe/Work/go/src/github.com/josebur86/osmose_production.sqlite
